@@ -1,16 +1,18 @@
 # Back End Cluster by Neo
-=
+-
 
-**Basic**
+### Basic
 
 html,markdown, css, bootstrap
 
-### Native compulsory 
+### Native 
+
+(compulsory) 
 
 - basic js
 - basic php
 
-* You are require to pick at least 1 from each sub category for your specialisation *
+*You are require to pick at least 1 from each sub category for your specialisation* 
 
 ### Mvc
 
