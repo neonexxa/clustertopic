@@ -5,14 +5,14 @@
 
 html,markdown, css, bootstrap
 
-**Native** compulsory 
+######Native compulsory 
 
 - basic js
 - basic php
 
-*You are require to pick at least 1 from each sub category for your specialisation *
+* You are require to pick at least 1 from each sub category for your specialisation *
 
-**mvc**
+######Mvc
 
 (php) pick 1 or more
 - [Laravel](https://laravel.com/)
