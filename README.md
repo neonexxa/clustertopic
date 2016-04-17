@@ -41,12 +41,21 @@ pick 1 or more
 
 pick 1 or more
 
-- Sqllite
-- Mysql
-- Mssql
-- MongoDB
-- MariaDB
-- Oracle 11 and above
+- [Sqllite](https://www.sqlite.org/)
+- [Mysql](https://www.mysql.com/)
+- [Microsoft SQL](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+- [MongoDB](https://www.mongodb.org/)
+- [MariaDB](https://mariadb.org/)
+- [Oracle 11 and above](http://www.oracle.com/index.html)
+- [Postgre SQL](http://www.postgresql.org/)
+- [AWS aurora](https://aws.amazon.com/rds/aurora/)
+
+Could db
+- [Firebase](https://www.firebase.com/)
+- [Dynamo DB](https://aws.amazon.com/documentation/dynamodb/)
+- [NoSQL](http://nosql-database.org/) this one a little huge, not advisable before completing your primary and secondary db specialisation 
+
+
 
 ### server config 
 
