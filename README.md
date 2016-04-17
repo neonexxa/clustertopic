@@ -40,20 +40,6 @@ pick 1 or more
 ### Database 
 
 pick 1 or more
-<<<<<<< HEAD
-- [Sqllite](https://www.sqlite.org/)
-- [Mysql](https://www.mysql.com/)
-- [Microsoft sql](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
-- [MongoDB](https://www.mongodb.org/)
-- [MariaDB](https://mariadb.org/)
-- [Oracle 11 and above](http://www.oracle.com/index.html)
-- [AWS aurora](https://aws.amazon.com/rds/aurora/)
-- [Postgre SQL](http://www.postgresql.org/)
-
-
-- [Firebase](https://www.firebase.com/)
-- [NoSQL](http://nosql-database.org/) this one is quite huge can choose 1 store for your specialise database but not suggested to use third party unless primary and secondary db has been master
-=======
 
 - [Sqllite](https://www.sqlite.org/)
 - [Mysql](https://www.mysql.com/)
@@ -69,8 +55,6 @@ Could db
 - [Dynamo DB](https://aws.amazon.com/documentation/dynamodb/)
 - [NoSQL](http://nosql-database.org/) this one a little huge, not advisable before completing your primary and secondary db specialisation 
 
-
->>>>>>> gh-pages
 
 ### server config 
 
