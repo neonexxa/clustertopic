@@ -15,11 +15,28 @@ html,markdown, css, bootstrap
 **mvc**
 
 (php) pick 1 or more
-* [Laravel](http://github.com)
-* cake
-* yii2
-* Akelos
-* Qphp
+- [Laravel](http://github.com)
+```<?php
+
+
+class Idea extends Eloquent {
+
+	/**
+	 * Dreaming of something more?
+	 *
+	 * @with  Laravel
+	 */
+	 public function create()
+	 {
+	 	// Have a fresh start...
+	 }
+
+}
+```
+- cake
+- yii2
+- Akelos
+- Qphp
 
 (JS) pick 1 or more
 - react
