@@ -1,8 +1,8 @@
 # Back End Cluster by Neo
-
 =
 
-**basic**
+**Basic**
+
 html,markdown, css, bootstrap
 
 **Native** compulsory 
@@ -15,28 +15,28 @@ html,markdown, css, bootstrap
 **mvc**
 
 (php) pick 1 or more
-- [Laravel](http://github.com)
-```<?php
+- [Laravel](https://laravel.com/)
+    <?php
+    
+    
+    class Idea extends Eloquent {
+    
+    	/**
+    	 * Dreaming of something more?
+    	 *
+    	 * @with  Laravel
+    	 */
+    	 public function create()
+    	 {
+    	 	// Have a fresh start...
+    	 }
+    
+    }
 
-
-class Idea extends Eloquent {
-
-	/**
-	 * Dreaming of something more?
-	 *
-	 * @with  Laravel
-	 */
-	 public function create()
-	 {
-	 	// Have a fresh start...
-	 }
-
-}
-```
-- cake
-- yii2
-- Akelos
-- Qphp
+- [cake](https://laravel.com/)
+- [yii2](https://laravel.com/)
+- [Akelos](https://laravel.com/)
+- [Qphp](https://laravel.com/)
 
 (JS) pick 1 or more
 - react
