@@ -34,7 +34,10 @@ html,markdown, css, bootstrap
     				
     				}
 
-- [cake](https://laravel.com/)
+- [cake](http://cakephp.org/)
+
+![CakePHP](http://cakephp.org/img/default/cake-logo2.png)
+
 - [yii2](https://laravel.com/)
 - [Akelos](https://laravel.com/)
 - [Qphp](https://laravel.com/)
